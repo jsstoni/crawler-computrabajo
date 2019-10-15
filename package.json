@@ -1,0 +1,28 @@
+{
+  "name": "crawler-computrabajo",
+  "version": "1.0.0",
+  "description": "spider computrabajo",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsstoni/crawler-computrabajo.git"
+  },
+  "keywords": [
+    "crawler",
+    "computrabajo"
+  ],
+  "author": "jsstoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsstoni/crawler-computrabajo/issues"
+  },
+  "homepage": "https://github.com/jsstoni/crawler-computrabajo#readme"
+}
