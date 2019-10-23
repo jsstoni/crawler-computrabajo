@@ -7,4 +7,4 @@ app.use(bodyParser.json())
 
 app.use('/module', Modulo)
 
-app.listen(3000);
+app.listen(3000)
